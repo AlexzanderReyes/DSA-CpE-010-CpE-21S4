@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="8oYAYS-uam-1O6cX-Cod">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="2991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-67" value="Sum = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-1950" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.75" y="-1990" as="sourcePoint" />
+            <mxPoint x="400.25" y="-1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-69" value="Get a value" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.75" y="-1890" as="sourcePoint" />
+            <mxPoint x="400.25" y="-1850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.75" y="-1790" as="sourcePoint" />
+            <mxPoint x="400.25" y="-1750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-72" value="Sum = sum + value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-73" value="Output the sum" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-74" value="Stop" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="340" y="-1520" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-75" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Start&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="340" y="-2040" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="-1820" as="sourcePoint" />
+            <mxPoint x="490" y="-1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="-1820.24" as="sourcePoint" />
+            <mxPoint x="450" y="-1820.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-78" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-1660" as="sourcePoint" />
+            <mxPoint x="490" y="-1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.498;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sJxKBHUjor7FhB7Ph3Hv-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.75" y="-1690" as="sourcePoint" />
+            <mxPoint x="400.25" y="-1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJxKBHUjor7FhB7Ph3Hv-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.25" y="-1560" as="sourcePoint" />
+            <mxPoint x="397.75" y="-1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
